@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-family: 'Nunito Sans', sans-serif;
+}
+.color {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+.blue {
+    background-color: #2d5dcc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 32%;
+    min-height: 100px;
+    font-family: 'Nunito Sans', sans-serif;
+    display: inline-block;
+    margin: 20px 0px;
+    
+
+}
+
+.pink { 
+    background-color: #d957d9;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    width: 32%;
+    min-height: 100px;
+    font-family: 'Nunito Sans', sans-serif;
+    display: inline-block;
+    margin: 20px 0px;
+}
+
+.green {
+    background-color: #4fe0b0;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    width: 32%;
+    min-height: 100px;
+    font-family: 'Nunito Sans', sans-serif;
+    display: inline-block;
+    margin: 20px 0px;
+
+}
+
+.beige {
+    background-color: #efd9ca;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    width: 32%;
+    min-height: 100px;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+.font {
+    border: 2px solid grey;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.font h2 {
+    padding-left: 15px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Source,.Nunito,.Poppins {
+    display: inline-block;
+    padding: 15px;
+
+}
+
+.Source h3 {
+    text-decoration: underline;
+    font-weight: normal;
+   
+}
+
+.Nunito h3 {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.Poppins h3 {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.Source {
+    font-family: 'Source Code Pro', monospace;
+   
+}
+
+.Nunito {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+.Poppins {
+    font-family:  'Poppins', sans-serif;
+}
+
+.tstyle {
+    border: 2px solid grey;
+    font-family:'Nunito Sans', sans-serif;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 20px;
+}
